@@ -1,0 +1,6 @@
+.bgc
+{
+    background-color: var(--color-black);
+    height: 150px;
+    width: 100vw;
+}

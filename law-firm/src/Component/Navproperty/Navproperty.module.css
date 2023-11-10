@@ -1,0 +1,14 @@
+.properties{
+    color: var(--color-White, #FFF);
+    display: flex;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 162.523%; /* 26.004px */
+    flex-direction: row;
+    gap: 40px;
+    cursor: pointer;
+}
+

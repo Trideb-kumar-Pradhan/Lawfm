@@ -1,0 +1,102 @@
+.page{
+    height : 80vh;
+    background-color: var(--color-black);
+    margin-top: -165px;
+}
+
+.paragraph{
+
+   width: 50vw;
+  color: var(--color-white); 
+  font-family: Inter;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 147.523%;  
+  margin-left: 40px;
+  margin-top: 70px;
+}
+
+.paragraph h1{
+    color: var(--color-white);
+   padding-bottom: 30px;
+   font-family: Inter;
+   font-style: normal;
+   font-size: 66px;
+   line-height: 147.523%;
+}
+
+.paragraph h3{
+    width: 560px;
+    height: 99px;
+    flex-shrink: 0;
+    color: var(--Pure-White, #FFF);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 162.523%; 
+    opacity: 0.3;
+}
+
+.searchbar{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.searchbar input{
+    width: 438px;
+   height: 70px;
+   flex-shrink: 0;
+   border-radius: 43px;
+   opacity: 0.1;
+   background-color: var(--color-white);
+   border-radius: 43px;
+   margin-left: -15px; 
+}
+
+.searchbar button{
+    width: 130px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 43px;
+    background: #E3B748;
+    margin-left: -135px;
+    margin-top: 3px;
+    cursor: pointer;
+
+}
+
+
+.searchbar img{
+    width: 22px;
+    height: 22px;
+   padding: 4.75px 6.833px;
+   flex-shrink: 0;
+   margin-left: 40px;
+   
+}
+
+.image{
+    width: 50vw;
+    height: 486.246px;
+    flex-shrink: 0;
+    margin-left: 950px;
+    margin-top: -380px;
+}
+
+.yellowbackground{
+    width: 443.511px;
+    height: 509.069px;
+    flex-shrink: 0;
+    
+}
+
+.personimage{
+    width: 470.511px;
+    height: 550px;
+    flex-shrink: 0;
+    margin-top: -548px;
+}

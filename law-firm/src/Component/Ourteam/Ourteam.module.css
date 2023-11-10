@@ -1,0 +1,68 @@
+.teamdetail h1{
+ color: var(--color-white, #FFF);
+ width: 100vw;
+height: 682px;
+font-family: Inter;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 143.023%; /* 77.232px */
+text-align: center;
+margin-left: 250px;
+background-color: var(--color-primary);
+margin-left: -10px;
+}
+
+.teammember{
+   display: grid;
+   grid-template-columns: auto auto auto;
+   gap: 20px;
+    margin-top: -580px;
+}
+
+.firstrow{
+    display: grid;
+   grid-template-columns: auto auto auto;
+   gap: 100px;
+   margin-left: 250px;
+}
+
+.member{
+    display: flex;
+    flex-direction: row;
+    width: 344px;
+    height: 109px;
+    flex-shrink: 0;
+}
+
+.member h5{
+color: var(--color-white);
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; 
+
+}
+
+.member h6{
+color:var(--Text-Black, #373737);
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; 
+}
+
+.namecases{
+    margin-left: 20px;
+    margin-top: 35px;
+}
+
+.second{
+    background-color: #E3B748;
+    border-radius: 12px;
+    text-align: center;
+}
+
+

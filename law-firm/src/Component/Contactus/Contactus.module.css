@@ -1,0 +1,14 @@
+.contact{
+    width: 172px;
+    height: 47px;
+    flex-shrink: 0;
+    border: 2px solid #FFF;
+    color: var(--color-white);
+    cursor: pointer;
+}
+
+.contact h3{
+    text-align: center;
+    margin-top: 10px;
+    
+}
